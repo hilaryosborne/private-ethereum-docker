@@ -1,0 +1,3 @@
+/.docker/bootstrap/ethereum/geth
+/.docker/bootstrap/ethereum/keystore
+/.idea
